@@ -1,0 +1,42 @@
+
+    body {
+    background-color: #962121;
+}
+h1 {
+    color: Green;
+}
+p {
+    color: #962121;
+}
+    padding-bottom: 0px;
+{
+    .HeaderLogo 
+{
+    position: absolute;
+    margin:10px auto;
+    width: 100px;
+    top:10px;
+}
+    /*about page mods*/
+    .pahe-margin{
+        margin-top: 0;
+    }
+    
+    .panel-body{
+        padding-bottom: 
+    }
+    
+    .featuredImg{
+        padding-bottom: 0px;
+    }
+    body {
+	cursor: url('some-cursor.ico'), default;
+}
+    .foreground{ 
+        background-color: white;
+    }
+    
+    .circle{
+        color: blue;
+    }
+    
